@@ -1,6 +1,6 @@
 {
   "name": "axe-os",
-  "version": "0.0.0",
+  "version": "2.12.2",
   "engines": {
     "node": ">=22.0.0"
   },
